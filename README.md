@@ -24,3 +24,9 @@ python FRDW.py --seed 2022 --model_num 2 --train_length 100 --dataset '001-2014'
 python FW+EA.py --seed 2022 --model_num 2 --train_length 100 --dataset '001-2014' --classes 4 --person 1 --model_type 'EEGNet' --model_save_path /model/EEGNet-001-2014-4/cross_overlap/ --gpu_id '3' --modelEA_save_path /model/EEGNet-001-2014-4/cross_overlap_EA/
 python FRDW+EA.py --seed 2022 --model_num 2 --train_length 100 --dataset '001-2014' --classes 4 --person 1 --model_type 'EEGNet' --model_save_path /model/EEGNet-001-2014-4/cross_overlap/ --gpu_id '3' --modelEA_save_path /model/EEGNet-001-2014-4/cross_overlap_EA/
 ```
+
+## Dataset
+
+You can find the dataset at the following locations:
+   http://www.bnci-horizon-2020.eu/database/data-sets
+   
