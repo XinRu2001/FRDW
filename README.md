@@ -29,4 +29,8 @@ python FRDW+EA.py --seed 2022 --model_num 2 --train_length 100 --dataset '001-20
 
 You can find the dataset at the following locations:
    http://www.bnci-horizon-2020.eu/database/data-sets
+   or 
+   https://www.bbci.de/competition/iv/
+We have provided data processing code for both .gdf and .mat formats.
+
    
