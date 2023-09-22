@@ -33,5 +33,10 @@ You can find the dataset at the following locations:
    https://www.bbci.de/competition/iv/
 .We have provided data processing code for both .gdf and .mat formats.
 
-
-   
+## Installing Dependencies
+```bash
+   pip install -r requirements.txt
+if you're using conda, you can create and activate an environment:
+```bash
+conda env create -f environment.yml
+conda activate my_environment
