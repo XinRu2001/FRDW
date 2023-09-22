@@ -35,7 +35,7 @@ You can find the dataset at the following locations:
 
 ## Installing Dependencies
 ```bash
-   pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 if you're using conda, you can create and activate an environment:
 
