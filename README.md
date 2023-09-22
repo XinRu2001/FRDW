@@ -31,6 +31,7 @@ You can find the dataset at the following locations:
    http://www.bnci-horizon-2020.eu/database/data-sets
    or 
    https://www.bbci.de/competition/iv/
-We have provided data processing code for both .gdf and .mat formats.
+.We have provided data processing code for both .gdf and .mat formats.
+
 
    
